@@ -1,6 +1,11 @@
 # MapReduce
 Map Reduce con hadoop y jupiter
 
+## Requisitos
+
+- 🐳 [Docker](https://docs.docker.com/engine/install/debian/)
+- 🐳🐳 [Docker compose](https://docs.docker.com/compose/install/)
+
 ## USO
 - Clonar el repositorio
 ```sh
