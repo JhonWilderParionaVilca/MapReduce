@@ -1,6 +1,6 @@
 # MapReduce
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Map Reduce con hadoop y jupiter
 
@@ -83,6 +83,7 @@ Ejecutar cada instruccion de jupiter(Alt + enter)
 <table>
   <tr>
     <td align="center"><a href="https://github.com/wilderPariona"><img src="https://avatars2.githubusercontent.com/u/46570334?v=4" width="100px;" alt=""/><br /><sub><b>WilderPariona</b></sub></a><br /><a href="https://github.com/wilderPariona/MapReduce/commits?author=wilderPariona" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/REYNALDOz"><img src="https://avatars1.githubusercontent.com/u/49566885?v=4" width="100px;" alt=""/><br /><sub><b>REYNALDOz</b></sub></a><br /><a href="https://github.com/wilderPariona/MapReduce/commits?author=REYNALDOz" title="Code">💻</a></td>
   </tr>
 </table>
 
