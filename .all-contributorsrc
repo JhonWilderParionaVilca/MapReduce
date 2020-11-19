@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "wilderPariona",
+      "name": "WilderPariona",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/46570334?v=4",
+      "profile": "https://github.com/wilderPariona",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "MapReduce",
+  "projectOwner": "wilderPariona",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

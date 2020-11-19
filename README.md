@@ -1,4 +1,7 @@
 # MapReduce
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 Map Reduce con hadoop y jupiter
 
 ## Requisitos
@@ -74,6 +77,18 @@ Ejecutar cada instruccion de jupiter(Alt + enter)
 ## Contributors
 
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/wilderPariona"><img src="https://avatars2.githubusercontent.com/u/46570334?v=4" width="100px;" alt=""/><br /><sub><b>WilderPariona</b></sub></a><br /><a href="https://github.com/wilderPariona/MapReduce/commits?author=wilderPariona" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 ## 🤩 Fuentes
 
 [🐙 mincemeatpy](https://github.com/michaelfairley/mincemeatpy)|
